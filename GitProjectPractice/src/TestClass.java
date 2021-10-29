@@ -5,6 +5,7 @@ public class TestClass {
 		
 		System.out.println("this is test for git");
 		System.out.println("this is first commit in Git Hub");
+		System.out.println("test");
 
 	}
 
